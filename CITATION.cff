@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it as below."
+authors:
+- family-names: "Singh"
+  given-names: "Sagalpreet"
+  orcid: "https://orcid.org/0000-0003-3754-6421"
+- family-names: "Jain"
+  given-names: "Shweta"
+  orcid: "https://orcid.org/0000-0002-2666-9058"
+- family-names: "Jha"
+  given-names: "Shashi Shekhar"
+  orcid: "https://orcid.org/0000-0002-1375-2266"
+title: "ComHAI"
+version: 1.0.0
+doi: 
+date-released: 2023-02-27
+url: "https://github.com/sagalpreet/ComHAI"
