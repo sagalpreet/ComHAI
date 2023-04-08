@@ -1,0 +1,44 @@
+# site settings
+title: ComHAI
+subtitle: AAMAS'23
+email: 2019csb1113@iitrpr.ac.in
+description: 
+baseurl: "/ComHAI" # the subpath of your site, e.g. /blog
+url: "https://sagalpreet.github.io"# the base hostname & protocol for your site
+author:
+street_address: Indian Institute of Technology Ropar
+city: Rupnagar
+state: Punjab
+zip_code: 140001
+country: India
+phone: (+91) 98724-32329
+
+# homepage tiles
+tiles-source: pages # accepts "posts" or "pages"
+tiles-count: 6
+
+# social settings (key must match name of font awesome icon)
+# see https://fontawesome.com/icons?d=gallery&p=2&s=brands
+# Icons are not shown if value is empty
+# You need to restart jekyll for changes to have an effect
+socials:
+  GitHub: https://github.com/sagalpreet
+  GitLab:
+  Google-Plus: 
+  Instagram:
+  LinkedIn: https://www.linkedin.com/in/sagalpreet
+  Twitter: 
+  Facebook:
+  Slack:
+
+# build settings
+markdown: kramdown
+
+sass:
+  style: compressed
+
+exclude:
+- "*.gemspec"
+- LICENSE.md
+- CONTRIBUTING.md
+- README.md 
